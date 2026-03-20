@@ -1,0 +1,5 @@
+ocr_venv/
+models/
+.cache/
+
+input/
