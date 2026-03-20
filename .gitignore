@@ -1,3 +1,4 @@
+venvs/
 ocr_venv/
 models/
 .cache/
